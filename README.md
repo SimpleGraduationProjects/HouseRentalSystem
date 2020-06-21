@@ -1,4 +1,7 @@
 # HouseRentalSystem
+
+<p>群: 123300273(大佬群)</p>
+<p>QQ: 1095737364</p>
 <p>
     <h1 align="center">房屋租赁系统</h1>
 </p>
