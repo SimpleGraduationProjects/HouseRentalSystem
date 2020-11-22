@@ -45,11 +45,17 @@
 
 ## 缩略图
 
-![](web/img/assets/guide-home.png)
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/guide-home.png)
 
-![](web/img/assets/guide-detail.png)
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/guide-detail.png)
 
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/login.png)
 
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/register.png)
+
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/userContent.png)
+
+![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/adminSYS.png)
 
 ## License
 
