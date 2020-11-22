@@ -1,6 +1,6 @@
 # HouseRentalSystem
 
-<p>群: 123300273(大佬群)</p>
+<p>群: 123300273(大佬群)(获取sql文件,入费群5元)</p>
 <p>QQ: 1095737364</p>
 <p>
     <h1 align="center">房屋租赁系统</h1>
@@ -15,7 +15,9 @@
 
 ## 简介
 
-> 房屋租赁系统，基于 Spring5.x 的实战项目。
+>本代码来源于网络,每份代码收服务整理费5元, 请入群(123300273)后联系群主索要sql文件!
+>
+>房屋租赁系统，基于 Spring5.x 的实战项目。
 
 
 
@@ -31,11 +33,11 @@
 
 ## 环境
 
-- <b>IntelliJ IDEA</b>
+- <b>IntelliJ IDEA 2009.3</b>
 
-- <b>Mysql 5.7</b>
+- <b>Mysql 5.7.26</b>
 
-- <b>Tomcat 9.x</b>
+- <b>Tomcat 7.0.73</b>
 
 - <b>JDK 1.8</b>
 
@@ -51,5 +53,5 @@
 
 ## License
 
-[MIT](https://www.cnblogs.com/yysbolg/)
+[个人博客](https://www.cnblogs.com/yysbolg/)
 
