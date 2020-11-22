@@ -45,17 +45,17 @@
 
 ## 缩略图
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/guide-home.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113535548-729955527.png)
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/guide-detail.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113554071-1105436321.png)
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/login.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113613290-321729916.png)
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/register.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113623118-565629087.png)
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/userContent.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113636392-1822100287.png)
 
-![](https://github.com/SimpleGraduationProjects/HouseRentalSystem/tree/master/assets/adminSYS.png)
+![](https://img2020.cnblogs.com/blog/588112/202011/588112-20201122113647393-1147069510.png)
 
 ## License
 
