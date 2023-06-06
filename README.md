@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
     <img src="https://img.shields.io/badge/mybatis-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"/>
+    <img src="https://img.shields.io/badge/SpringMVC-3.x-brightgreen.svg"/>
 </p>
 
 ## 简介
@@ -27,8 +27,10 @@
 >   用户名： admin  
 >   密码： 123456
 > 
-> 需要建立：D:/upload/hrs/目录
-> 
+> 部署要求：
+>   1.建立D:/upload/hrs/目录，图片使用
+>   2.高德开放KEY值
+
 
 
 
