@@ -1,6 +1,6 @@
 # 1.HouseRentalSystem
 
-<p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
+<p>群: 123300273(入群获取sql文件)</p>
 <p>QQ: 1095737364(加好友获取sql文件)</p>
 
 <p><h1 align="center">1.房屋租赁系统</h1></p>
@@ -16,7 +16,19 @@
 
 > 本代码来源于网络, 请入群(123300273)后联系群主索要sql文件!
 >
->房屋租赁系统，基于 Spring5.x 的实战项目。
+> 
+> 前端访问地址： http://localhost:8080/index.html
+>
+>   用户名： user  
+>   密码： 123456
+> 
+> 后端访问地址： http://localhost:8080/admin/index.html
+> 
+>   用户名： admin  
+>   密码： 123456
+> 
+> 需要建立：D:/upload/hrs/目录
+> 
 
 
 
@@ -26,15 +38,14 @@
 - <b>多用户：</b>普通用户与管理员各自都能发布房源信息
 - <b>开发环境：</b>前端 `Layui`，后端 `Spring` `SpringMVC` `MyBatis`
 
-- <b>· · ·</b>
-
-
 
 ## 环境
 
-- <b>IntelliJ IDEA 2009.3</b>
+- <b>IntelliJ IDEA 2021.2</b>
 
 - <b>Mysql 5.7.26</b>
+
+- <b>Navicat  11.1.20.0</b>
 
 - <b>Tomcat 7.0.73</b>
 
@@ -59,8 +70,8 @@
 ## License
 
 ##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
-##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-##### [更多论文: 精品论文查看](https://www.cnblogs.com/yysbolg/category/1886262.html)
 ##### [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
+
+##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
 
 
